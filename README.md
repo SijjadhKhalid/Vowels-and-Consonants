@@ -1,5 +1,5 @@
 # Letters-and-Consonants
-This application will tell the user the amount of vowels or consonants in any inputted word.
+This application will tell the user the amount of vowels or consonants in any inputted word
 
 # Description
 * Purpose: This program will count the number of vowels & consonants
